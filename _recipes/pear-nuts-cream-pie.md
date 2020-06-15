@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title:  "Gougères"
-image: gougeres.jpg
+title:  "Pear nuts cream pie"
+image: tarte_poire_noisette.jpg
 imagecredit:
 tags:
 
@@ -13,6 +13,9 @@ ingredients:
 - 4 Eggs
 - Salt
 - Pepper
+
+components:
+- Sablé Breton Pie Shell
 
 directions:
 - Mettre a bouillir eau et beurre, saler poivrer
