@@ -7,27 +7,20 @@ imagecredit:
 tags:
 
 ingredients:
-- 250g water
-- 120g Flour
-- 100g Butter
-- 4 Eggs
-- Salt
-- Pepper
+- 3 pears
+- 1 tbsp sugar
+- 2 tbsp quince, jelly
+- pistaches, concassées
 
 components:
 - Sablé Breton Pie Shell
+- Nut Cream
 
 directions:
-- Mettre a bouillir eau et beurre, saler poivrer
-- Jeter la farine dans le liquide en ébullition, mélanger jusqu'a ce que la pate ne colle plus
-- Sortir du feu et laisser refroidir
-- Ajouter les oeufs un par un en remuant bien entre chaque
-- Ajouter la garniture (fromage, jambon...)
-- Faire des petits tas sur la plaque du four
-- Préchauffer le four [temperature:220C]
-- Enfourner 20 minutes
-- Monter la température à [temperature:240C] pendant 10 minutes
+- Etalez la crème sur le sablé froid
+- Lavez les poires , découpez des tranches en conservant la peau , déposez les sur la crème de noisettes . Ajoutez 1 cuil à soupe de sucre et faites cuire à 200 °C 25/30 minutes
+- Versez la gelée dans un petit bol , faites la tiédir au micro ondes et utilisez un pinceau pour glacer la tarte , ajoutez les pistaches concassées.
 
 ---
 
-Ham / Cheese / Pepperoni to taste
+Quince jelly can be switch for apricot ...
