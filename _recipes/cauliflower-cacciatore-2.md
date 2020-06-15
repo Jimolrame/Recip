@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Cauliflower Cacciatore"
+title:  "Cauliflower Cacciatore 2"
 image: cauliflower-cacciatore.jpg
 tags: mains, veg
 
