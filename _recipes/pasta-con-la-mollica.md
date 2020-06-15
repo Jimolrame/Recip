@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Pear nuts cream pie"
+title:  "Pasta Con La Mollica"
 image: pasta_con_la_mollica.jpg
 imagecredit:
 tags:
