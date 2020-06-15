@@ -2,15 +2,15 @@
 
 layout: recipe
 title:  "Croquants"
-image:
+image: croquants.jpg
 imagecredit:
 tags:
 
 ingredients:
 - 250g nuts
-- 300g flour
+- 310g flour
 - 170g sugar
-- ? yeast
+- 1.5 tsp yeast
 - 3 eggs
 - 3 orange, zest
 - 2tsp orange blossom

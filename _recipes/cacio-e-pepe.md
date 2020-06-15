@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Cacio e pepe"
-image: banana-bread.jpg
-imagecredit: https://flic.kr/p/7HZmzn
+image:
+imagecredit:
 tags:
 
 ingredients:
